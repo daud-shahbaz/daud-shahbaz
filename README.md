@@ -14,11 +14,8 @@ Frameworks & Libraries:
 ML/DL:
 - Scikit-learn, Pytorch, TensorFlow, Keras
 
-Databases:
-- SQLite, MySQL, MongoDB
-
 DevOps/Tools:
-- Docker, Linux, Git, Jupyter, Power BI, Excel
+- Linux, Git, Jupyter, Power BI, Excel
 
 ```
 
