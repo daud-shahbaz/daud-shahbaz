@@ -14,6 +14,6 @@ Frameworks & Libraries:
 - NumPy, Pandas, Matplotlib, FastAPI, Streamlit, Scikit-learn, Pytorch
 
 DevOps/Tools:
-- Linux, Git, Docker, Postman, Jupyter, Power BI, Excel
+- Linux, Git, Docker, Postman, Jupyter, Power BI, Excel, Github Copilot
 
 ```
