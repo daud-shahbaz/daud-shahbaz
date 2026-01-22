@@ -3,17 +3,17 @@
 </p>
 
 ```js
-Analyze , Explore, Build, Train, Predict
+Develop to Analyze - Predict
 ```
 
 ```md
 Languages:
-- Python, JavaScript, Java
+- Python - JavaScript
 
 Frameworks & Libraries:
-- NumPy, Pandas, Matplotlib, FastAPI, Streamlit, Scikit-learn, Pytorch
+- NumPy, Pandas, Matplotlib, FastAPI, Scikit-learn, Pytorch
 
 DevOps/Tools:
-- Linux, Git, Docker, Postman, Jupyter, Power BI, Excel, Github Copilot
+- Linux, Git, Docker, Postman, Jupyter, Excel
 
 ```
